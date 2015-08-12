@@ -1,0 +1,5 @@
+M:\Work\Projects\SMSCenter\SMSCenter\Notification\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\Notification\bin\Debug\Notification.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Notification\bin\Debug\Notification.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Notification\obj\Debug\Notification.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Notification\obj\Debug\Notification.pdb

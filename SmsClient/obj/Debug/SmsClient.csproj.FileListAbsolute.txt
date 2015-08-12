@@ -1,0 +1,13 @@
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\Custom.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\Custom.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SQLConnector.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SQLConnector.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SMPPClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SMPPClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SmsClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\SmsClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\obj\Debug\SmsClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\obj\Debug\SmsClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SmsClient\bin\Debug\Tools.pdb

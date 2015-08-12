@@ -1,0 +1,5 @@
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\bin\Debug\Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\bin\Debug\Tools.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\Tools.pdb

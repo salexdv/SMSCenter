@@ -1,0 +1,13 @@
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\EasySMPP.KernelParameters.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\EasySMPP.KernelParameters.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\Custom.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\Custom.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\SQLConnector.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\SQLConnector.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\SMPPClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\SMPPClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\obj\Debug\SMPPClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\obj\Debug\SMPPClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SMPPClient\bin\Debug\Tools.pdb

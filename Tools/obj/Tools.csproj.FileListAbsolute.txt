@@ -1,0 +1,10 @@
+D:\00\Tools\bin\Debug\EasySMPP.Tools.dll
+D:\00\Tools\bin\Debug\EasySMPP.Tools.pdb
+D:\00\Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\00\Tools\obj\Debug\EasySMPP.Tools.dll
+D:\00\Tools\obj\Debug\EasySMPP.Tools.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\bin\Debug\EasySMPP.Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\bin\Debug\EasySMPP.Tools.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\EasySMPP.Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tools\obj\Debug\EasySMPP.Tools.pdb

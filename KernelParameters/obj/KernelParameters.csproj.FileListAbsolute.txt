@@ -1,0 +1,10 @@
+D:\00\KernelParameters\bin\Debug\EasySMPP.KernelParameters.dll
+D:\00\KernelParameters\bin\Debug\EasySMPP.KernelParameters.pdb
+D:\00\KernelParameters\obj\Debug\ResolveAssemblyReference.cache
+D:\00\KernelParameters\obj\Debug\EasySMPP.KernelParameters.dll
+D:\00\KernelParameters\obj\Debug\EasySMPP.KernelParameters.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\KernelParameters\bin\Debug\EasySMPP.KernelParameters.dll
+M:\Work\Projects\SMSCenter\SMSCenter\KernelParameters\bin\Debug\EasySMPP.KernelParameters.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\KernelParameters\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\KernelParameters\obj\Debug\EasySMPP.KernelParameters.dll
+M:\Work\Projects\SMSCenter\SMSCenter\KernelParameters\obj\Debug\EasySMPP.KernelParameters.pdb

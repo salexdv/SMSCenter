@@ -1,0 +1,7 @@
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\bin\Debug\SQLConnector.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\bin\Debug\SQLConnector.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\bin\Debug\Custom.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\bin\Debug\Custom.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\obj\Debug\SQLConnector.dll
+M:\Work\Projects\SMSCenter\SMSCenter\SQLConnector\obj\Debug\SQLConnector.pdb

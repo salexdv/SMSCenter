@@ -1,0 +1,16 @@
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\obj\Debug\ResolveAssemblyReference.cache
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\obj\Debug\Tester.exe
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\obj\Debug\Tester.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Tester.exe.config
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Tester.exe
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Tester.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SQLConnector.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Custom.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SQLConnector.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Custom.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SMPPClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SMPPClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SmsClient.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\SmsClient.pdb
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Tools.dll
+M:\Work\Projects\SMSCenter\SMSCenter\Tester\bin\Debug\Tools.pdb
